@@ -66,7 +66,7 @@ pip (Python package manager)
 
 2. Clone the Repository
 
-git clone https://github.com/your-username/rocket-orbital-simulation.git
+git clone https://github.com/IkramulHoque-Arik/rocket-orbital-simulation.git
 cd rocket-orbital-simulation
 
 3. Install Dependencies
@@ -101,7 +101,7 @@ Earth-Moon System Simulation
 Compass Axis Visualization
 
 
-![3D Trajectory](images/ss.png)
+![3D Trajectory](ss.png)
 
 
 
