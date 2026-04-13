@@ -1,4 +1,4 @@
-🚀 Rocket Orbital Simulation Guide (Version 1)
+🚀 Rocket Orbital Simulation Guide (Version 2)
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue" />
@@ -43,14 +43,14 @@ The goal of this project is to help understand fundamental physics concepts such
 
 🐞 Current version has limited features and known bugs
 
-⚠️ This version includes feature limitations and is not the final product
+⚠️ This version(2)< includes feature limitations and is not the final product
 
 🔮 Future versions are expected to include more advanced features, improvements, and optimizations
 
 🔄 A more complete and refined version of the software is being actively developed
 
 
-
+9
 ---
 
 🛠️ Installation & Setup
@@ -101,7 +101,8 @@ Earth-Moon System Simulation
 Compass Axis Visualization
 
 
-![3D Trajectory](ss.png)
+![3D Trajectory](ss2.png)       
+![Planner Trajectory](ss1.png)
 
 
 
